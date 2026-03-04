@@ -1,0 +1,14 @@
+.Titolo{
+    background-color: red;
+    color: aqua;
+}
+
+.Par{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPLk8hMdcgBH8bN21YIMJco5p5DOtvWoFkvQ&s);
+    background-size: cover;
+    color: blue;
+}
+
+.bottone:hover{
+    color: blueviolet;
+}
